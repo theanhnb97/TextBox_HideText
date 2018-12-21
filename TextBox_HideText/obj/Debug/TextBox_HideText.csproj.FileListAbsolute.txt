@@ -1,0 +1,8 @@
+E:\Workspace\1---- Source Code\TextBox_HideText\TextBox_HideText\bin\Debug\TextBox_HideText.exe.config
+E:\Workspace\1---- Source Code\TextBox_HideText\TextBox_HideText\bin\Debug\TextBox_HideText.exe
+E:\Workspace\1---- Source Code\TextBox_HideText\TextBox_HideText\bin\Debug\TextBox_HideText.pdb
+E:\Workspace\1---- Source Code\TextBox_HideText\TextBox_HideText\obj\Debug\TextBox_HideText.Form1.resources
+E:\Workspace\1---- Source Code\TextBox_HideText\TextBox_HideText\obj\Debug\TextBox_HideText.Properties.Resources.resources
+E:\Workspace\1---- Source Code\TextBox_HideText\TextBox_HideText\obj\Debug\TextBox_HideText.csproj.GenerateResource.Cache
+E:\Workspace\1---- Source Code\TextBox_HideText\TextBox_HideText\obj\Debug\TextBox_HideText.exe
+E:\Workspace\1---- Source Code\TextBox_HideText\TextBox_HideText\obj\Debug\TextBox_HideText.pdb
